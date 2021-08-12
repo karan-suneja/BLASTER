@@ -1,7 +1,7 @@
 # BLASTER
 BLASTER is a Web-Music Player for Song Streaming Purposes and is made using only Python.
 
-#Download
+# Download
 https://drive.google.com/drive/folders/11mYmopUPMfmJkCKYqlxmKHViYbP5ztxk?usp=sharing
 
 # Screenshots
